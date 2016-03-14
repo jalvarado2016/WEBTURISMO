@@ -21,7 +21,7 @@ margin: 0;
 }
 
 header {
-	background:#DD6B78;
+	background:#2D357E;
 	border-color:#2B0E1F;
 }
 
@@ -36,13 +36,13 @@ nav {
 
 nav a, nav a:visited
 {
-	color:#FFF;
+	color:#BA3D49;
 }
 
 /*** FOOTER ***/
 /*cambia el fondo del pie de pagina de la pagina */
 footer {
-	background:#E6AA70;
+	background:#2D357E;
 }
 /*cambia el color del pie de pagina de la pagina */
 p {
@@ -59,7 +59,7 @@ color: #32673f;
 }
 
 /*da formato al titulo*/
-h1 { font-family: 'Lora', sans-serif;
+h1 { font-family: 'Roboto', sans-serif;
 margin: 15px o;
 font-size: 1.75em;
 font-weight: normal;
@@ -91,10 +91,10 @@ font-size: 0.75em;
 color: #974049;
 }
 footer { 
-	font-size: 0.75em;
-	text-align: center;
+	font-size: 0.60em;
+	text-align: right;
 	clear: both;
-	padding-top: 50px;
+	padding-top: 10px;
 	color: #ccc;
 }
 header{ float: left;
@@ -121,11 +121,11 @@ height: 30px;
 margin: 0 5px;
 }
 /*para la pagina about*/
-.profile-photo { display: block;
+/*.profile-photo { display: block;
 	max-width: 450px;
 	margin: 0 auto 30px;
 	border-radius: 100%;
-}
+}*/
 /*para darle los iconos a la seccion contactos */
 .contact-info li.phone a{
 	background-image: url('../img/fono.jpg');
