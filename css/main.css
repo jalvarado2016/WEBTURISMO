@@ -146,6 +146,12 @@ margin: 0 5px;
 	padding:0px;
 }
 
+/*para los graficos de la pagina turismo*/
+.sitios { display: block;
+	max-width: 400px;
+	margin: 0 auto 30px;
+	float: left;
+	}
 
 /*para darle los iconos a la seccion contactos */
 .contact-info li.phone a{
