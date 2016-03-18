@@ -29,6 +29,14 @@ h1, h2 {
 	color:#FFF;
 }
 
+h3 {
+color: #2D357E;
+}
+
+h4 {
+color: #2D357E;
+}
+
 b {
 	color:#2D357E;
 }
@@ -78,12 +86,12 @@ font-weight: normal;
 
 h3 {
 font-size: 1.25em;
-color: #2D357E;
+margin: -5px o;
 }
 
 h4 {
 font-size: 1.00em;
-color: #2D357E;
+margin: -5px o;
 }
 /* CSS */
 
