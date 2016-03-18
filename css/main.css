@@ -29,6 +29,10 @@ h1, h2 {
 	color:#FFF;
 }
 
+b {
+	color:#2D357E;
+}
+
 /**NAVIGATION ***/
 nav {
 	background:#E6AA70;
@@ -61,17 +65,26 @@ color: #32673f;
 /*da formato al titulo*/
 h1 { font-family: 'Roboto', sans-serif;
 margin: 15px o;
-font-size: 1.75em;
+font-size: 2.00em;
 font-weight: normal;
 line-height: 1.3em;
 }
 /*da formato al subtitulo*/
 h2 { 
-font-size: 0.75em;
+font-size: 1.00em;
 margin: -5px o;
 font-weight: normal;
 }
 
+h3 {
+font-size: 1.25em;
+color: #2D357E;
+}
+
+h4 {
+font-size: 1.00em;
+color: #2D357E;
+}
 /* CSS */
 
 #galeria {margin: 0;
@@ -121,6 +134,13 @@ padding: 15px 10px;
 height: 30px;
 margin: 0 5px;
 }
+
+/*para el grafico de la pagina reseña*/
+.foto { display: block;
+	max-width: 450px;
+	margin: 0 auto 30px;
+}
+
 /*para los graficos de la pagina simbolos*/
 .bandera { display: block;
 	max-width: 200px;
